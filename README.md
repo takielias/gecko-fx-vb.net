@@ -23,6 +23,7 @@ Remove the Existing Code and Pest the Following one.
 
 Code:
 
+```
 Imports Gecko
 Imports System.IO
 Namespace My
@@ -45,7 +46,7 @@ Namespace My
         End Function
     End Class
 End Namespace
-
+```
 
 5. Go to Toolbox > Right Click > Chose Items
 
